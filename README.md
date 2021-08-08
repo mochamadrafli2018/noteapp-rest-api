@@ -32,12 +32,15 @@ For better styling in VSCode, we can also donwload ESLint extension in VSCode
 ## Install Nanoid (String id handle and crate unique id number in API)
 
 `npm install nanoid`
+
 Then check package.json
 
 ## Install Hapi (Node Js Framework)
 
 `npm install @hapi/hapi`
+
 Then check package.json
+
 `npm run start`
 
 ## Execute the code

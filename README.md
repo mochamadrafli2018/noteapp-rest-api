@@ -10,6 +10,7 @@ To keep the server running even if the code has changed
 ## Execute the code
 
 `cd noteapp-api`
+
 `npm run start`
 
 ## Install ESLint for javascript styling
@@ -41,11 +42,10 @@ Then check package.json
 
 Then check package.json
 
-`npm run start`
-
-## Execute the code
+## Running Hapi
 
 `cd noteapp-api`
+
 `npm run start`
 
 ## Check the output at Postman or browser at :

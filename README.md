@@ -1,4 +1,4 @@
-# noteapp-api
+# Noteapp-Rest-Api
 
 This was a simple API portfolio that use Hapi (a Node Js framework).
 
